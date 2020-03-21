@@ -1,6 +1,6 @@
 {
   "name": "browser-add-on-compatibility",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Partial compatibility for Mozilla Firefox & Google Chrome add-ons",
   "keywords": ["browser", "add-on", "extension", "compatibility"],
   "author": "donbidon (http://donbidon.rf.gd/)",
