@@ -10,5 +10,5 @@
     "url": "https://github.com/donbidon/browser-add-on-compatibility",
     "type": "git"
   },
-  "files": ["src/*.js"]
+  "files": ["src/browser/*.js", "src/browser/storage/*.js"]
 }
